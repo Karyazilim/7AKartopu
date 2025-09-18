@@ -176,7 +176,7 @@ class GameScreen(Screen):
         
         # Throw button (larger)
         self.throw_btn = MDRaisedButton(
-            text='ATIY',
+            text='ATI!',
             size_hint=(None, None),
             size=('120dp', '64dp'),
             md_bg_color=(0.05, 0.65, 0.95, 1),
